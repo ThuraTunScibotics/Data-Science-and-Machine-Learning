@@ -1,0 +1,11 @@
+## This "Scikit-Learn-Creating-Machine-Learning-Models" folder is about learning essential concepts and step-by-step process of creating Machine Learning Model using Scikit-Learn library and Python Programming.
+###Notebooks:
+- Learn and practice about introductory and basic concepts of creating machine learning with sklearn library [introduction-to-scikit-learn.ipynb]
+- Learn and practice about detail workflow and concepts[typical-scikit-learn-workflow.ipynb]: 
+      1. getting data (including car-sales data, heart-disease data, boston-house-dataset)
+      2. choosing the right estimator/algorithm for our problem (including RandomForestClassifier and RandomForestRegressor) 
+      3. fit the model/algorithm and use it to make prediction in our data
+      4. evaluating a model (evaluation methods)
+      5. improve a model(tuning methods: manually, RandomSearchCV, RandomSearchGrid)
+      6. Save and Load a trained model
+- Putting and implementing step-by-step workflow together[putting_all_together_ML_workflow.ipynb]
